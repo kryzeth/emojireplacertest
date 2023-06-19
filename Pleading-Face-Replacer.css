@@ -1,3 +1,13 @@
+/**
+ * @name PleadingFaceReplacer
+ * @description Replaces Discord's Pleading Face Emoji with the original from Twemoji
+ * @author Kryzeth
+ * @version 1.0.0
+ * @authorId 0
+ * @website https://github.com/kryzeth
+ * @source https://github.com/kryzeth/emojireplacertest
+ */
+
 /* pleading_face */
 .diversityEmojiItemImage-1pfGqI[src='/assets/e63c47fd56c7ed1e4552974baaef4b4e.svg'],
 .diversityEmojiItemImage-1pfGqI[style*='background-image: url("/assets/e63c47fd56c7ed1e4552974baaef4b4e.svg")'],
